@@ -144,6 +144,15 @@
         "hungry"
       ],
       "id": "14"
+    },
+    {
+      "name": "Emma",
+      "species": "Dog",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "loving"
+      ],
+      "id": "15"
     }
   ]
 }
